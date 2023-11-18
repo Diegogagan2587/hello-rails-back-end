@@ -1,7 +1,7 @@
 <a name="readme-top"></a>
 <div align="center">
   <!-- You are encouraged to replace this logo with your own! Otherwise you can also remove it. -->
-  <img src="murple_logo.png" alt="logo" width="140"  height="auto" />
+  <!-- <img src="murple_logo.png" alt="logo" width="140"  height="auto" /> -->
   <br/>
 
   <h3><b>README</b></h3>
@@ -46,6 +46,13 @@
 
 > Would You like to learn more about used technologies?
 
+
+<details>
+  <summary>Client</summary>
+  <ul>
+    <li><a href="https://github.com/Diegogagan2587/hello_rails_react">Hello_rails_react</a></li>
+  </ul>
+</details>
 
 <details>
   <summary>Server</summary>
@@ -154,7 +161,7 @@ here is [Ruby on rails render's deployment guide](https://render.com/docs/deploy
 
 > Let's connect below:
 
-👤 **Author1**
+👤 **Diego Vidal Lopez**
 
 - GitHub: [@Diegogagan2587](https://github.com/Diegogagan2587)
 - Twitter: [@dieg02587](https://twitter.com/dieg02587)
@@ -223,7 +230,5 @@ I would like to thank to Microverse for proposing this project
 ## 📝 License <a name="license"></a>
 
 This project is [MIT](./LICENSE) licensed.
-
-_NOTE: we recommend using the [MIT license](https://choosealicense.com/licenses/mit/) - you can set it up quickly by [using templates available on GitHub](https://docs.github.com/en/communities/setting-up-your-project-for-healthy-contributions/adding-a-license-to-a-repository). You can also use [any other license](https://choosealicense.com/licenses/) if you wish._
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
