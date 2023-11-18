@@ -38,7 +38,9 @@
 
 > Learn mor about this project below:
 
-**Hello Rails (Back-end)** is a simple API for that response with  10 different randomly greetings, retrieved from the DB in a JSON format usin the endpoint `/greetings`
+**Hello Rails (Back-end)** is a simple API for that response with  10 different randomly greetings, retrieved from the DB in a JSON format using the endpoint `/greetings`
+
+You can also check [Hello Rails (Front-end)](https://github.com/Diegogagan2587/hello-react-front-end) here!
 
 ## 🛠 Built With <a name="built-with"></a>
 
